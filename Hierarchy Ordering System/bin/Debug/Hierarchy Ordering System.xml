@@ -1,0 +1,281 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hierarchy Ordering System
+</name>
+</assembly>
+<members>
+<member name="T:Hierarchy_Ordering_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Hierarchy_Ordering_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Hierarchy_Ordering_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.adminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.cashierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.productsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.salehistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.adminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.cashierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.productsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.salehistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.adminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.cashierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.productsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSet.salehistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.adminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.cashierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.productsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.salehistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hierarchy_Ordering_System.HierarchyDbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Hierarchy_Ordering_System.HierarchyDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Hierarchy_Ordering_System.HierarchyDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.TableAdapterManager.UpdateAll(Hierarchy_Ordering_System.HierarchyDbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyDbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyHistoryDbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyHistoryDbDataSet.SALEHISTORYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyHistoryDbDataSet.SALEHISTORYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyHistoryDbDataSet.SALEHISTORYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.SALEHISTORYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hierarchy_Ordering_System.HierarchyHistoryDbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Hierarchy_Ordering_System.HierarchyHistoryDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Hierarchy_Ordering_System.HierarchyHistoryDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.TableAdapterManager.UpdateAll(Hierarchy_Ordering_System.HierarchyHistoryDbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.HierarchyHistoryDbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.infoDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.infoDataSet.infoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.infoDataSet.infoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.infoDataSet.infoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.infoDataSetTableAdapters.infoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.infoDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.infoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hierarchy_Ordering_System.infoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.infoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Hierarchy_Ordering_System.infoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.infoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Hierarchy_Ordering_System.infoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.infoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Hierarchy_Ordering_System.infoDataSetTableAdapters.TableAdapterManager.UpdateAll(Hierarchy_Ordering_System.infoDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.infoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Hierarchy_Ordering_System.infoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
