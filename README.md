@@ -7,7 +7,9 @@ POS Group Project way back March 2019 at AMA Fairview Campus(Grade 12) : Built u
 * Microsoft Access as the Database (.accdb file)
 * 2nd Monitor for Amount Display & Ads
 * Dedicated Folder for Receipt Copies
-* Separate Admin Login for an Admin user
+* Separate Admin Login, Inventories & Advance POS Settings for an Admin user only
+* POS Menu for Cashier & Admin
+- - - -
 
 #### Group Programmer
 * Dayao Zalven
