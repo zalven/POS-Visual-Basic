@@ -2,7 +2,7 @@
 POS Group Project way back March 2019 at AMA Fairview Campus(Grade 12) : Built using Visual Basic As Required by the teacher
 
 
-####Features
+#### Features
 * Can Add, Edit, Remove Products from database
 * Microsoft Access as the Database (.accdb file)
 * 2nd Monitor for Amount Display & Ads
