@@ -1,0 +1,657 @@
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Darklogin.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Darklogin.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - Copy (2)\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Darklogin.resources
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Darklogin.resources
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+G:\proj\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Darklogin.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\Codes\Visual Studio Projects\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Darklogin.resources
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17001646400\Documents\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+G:\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\Codes\Visual Studio Projects\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Documents\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001931300\Documents\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001931300\Documents\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001931300\Documents\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17001931300\Documents\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+G:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+D:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\back\adsas\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001931300\Desktop\fnl\source\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\Hierarchy Ordering System - 3.5 - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.test.resources
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.test.resources
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.test.resources
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+G:\Hierarchy Proj Con\latest - Copy (2)\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.test.resources
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+G:\Hierarchy Proj Con\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.test.resources
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17001646400\Desktop\latest - Copy (2) - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.application
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.TrustInfo.xml
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17001646400\Desktop\setssss\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.application
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.manifest
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.application
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.TrustInfo.xml
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe.manifest
+D:\Hierarchy Proj Con\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.application
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.application
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.TrustInfo.xml
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17001931300\Desktop\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.application
+D:\Hierarchy Proj Con\most newer\most latest\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\Hierarchy Proj Con\most newer\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\Hierarchy Proj Con\most newer\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\Hierarchy Proj Con\most newer\most latest\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.application
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.TrustInfo.xml
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17003397300\Documents\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.application
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.application
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.TrustInfo.xml
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17003397300\AppData\Roaming\New folder\most newer\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.application
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.application
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.TrustInfo.xml
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe.manifest
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.application
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Display_Form.resources
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\GenerateResource.write.692.tlog
+C:\Users\17003397300\AppData\Roaming\New folder\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Display_Form.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\ads\most newer - Copy\most latest1\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Display_Form.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\90% - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Display_Form.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.692.tlog
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.98.tlog
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.145.tlog
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.121.tlog
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.421.tlog
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.505.tlog
+C:\Users\17001728500\Desktop\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.664.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Display_Form.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.121.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.145.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.421.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.505.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.664.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.692.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.960.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.963.tlog
+C:\Users\17001728500\AppData\Roaming\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.98.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.CashierSettings.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.121.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.145.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.421.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.505.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.664.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.692.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.960.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.963.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\GenerateResource.write.98.tlog
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Help.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.SaleHistory.resources
+C:\Users\17001646400\AppData\Roaming\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Adsform.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Adsform.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.CashierSettings.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Help.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.SaleHistory.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jerbee\Desktop\test2\eto yung pinaka last 92 %\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CopyComplete
+D:\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+D:\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+D:\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+D:\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Adsform.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.CashierSettings.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Help.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.SaleHistory.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CopyComplete
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\95%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyDb.accdb
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\HierarchyHistoryDb.accdb
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\info.accdb
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe.config
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.pdb
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbprojAssemblyReference.cache
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Adsform.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.CashierSettings.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Form1.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Help.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Admin_Form.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.LoadingForm.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Hierarchy_Cashier_Form.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Lightlogin.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.Resources.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.SaleHistory.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy_Ordering_System.securitymeasures2.resources
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.GenerateResource.cache
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.vbproj.CopyComplete
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.exe
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.xml
+C:\Users\Jerbee\Desktop\97%\90% - Copy - Copy\Hierarchy Ordering System\obj\Debug\Hierarchy Ordering System.pdb
