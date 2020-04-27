@@ -1,7 +1,6 @@
 # POS-Visual-Basic
-````
 POS Group Project way back March 2019 at AMA Fairview Campus(Grade 12) : Built using Visual Basic As Required by the teacher
-````
+
 
 ####Features
 * Can Add, Edit, Remove Products from database
